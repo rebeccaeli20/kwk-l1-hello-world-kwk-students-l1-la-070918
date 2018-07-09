@@ -1,2 +1,2 @@
-ruby hello_world.ruby
+$ ruby hello_world.ruby
 Hello World!
